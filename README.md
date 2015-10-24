@@ -1,1 +1,3 @@
 # us-libressl-comicsans
+
+Userscript which just turns all fonts on the [LibreSSL](http://www.libressl.org/) website into Comic Sans. It's not that bad actually...
